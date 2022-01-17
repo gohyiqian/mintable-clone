@@ -28,21 +28,6 @@
   color: #61dafb;
 }
 
-.btn_signup {
-  min-width: 90px;
-  margin: 0 10px;
-  background-color: white;
-  border: solid 0.2px #550ded;
-  color: #550ded;
-}
-
-.btn_login {
-  min-width: 90px;
-  background-color: #550ded;
-  color: white;
-  justify-content: center;
-}
-
 .nav_dropdown {
   -webkit-transition: 0.5s ease-in-out;
   transition: 0.5s ease-in-out;
@@ -178,4 +163,19 @@
   overflow: hidden;
   text-overflow: ellipsis;
   max-width: 500px;
+}
+
+.btn_signup {
+  min-width: 90px;
+  margin: 0 10px;
+  background-color: white;
+  border: solid 0.2px #550ded;
+  color: #550ded;
+}
+
+.btn_login {
+  min-width: 90px;
+  background-color: #550ded;
+  color: white;
+  justify-content: center;
 }

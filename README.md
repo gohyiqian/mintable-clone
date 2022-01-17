@@ -2,7 +2,7 @@
 
 ## React-Redux application with Opensea API.
 
-## Submission by: Yi Qian
+![LandingPage](/public/demo.gif)
 
 # Getting Started with Create React App
 
