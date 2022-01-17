@@ -1,3 +1,9 @@
+# Mintable Interview 17.01.2022
+
+## React-Redux application with Opensea API.
+
+## Submission by: Yi Qian
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
