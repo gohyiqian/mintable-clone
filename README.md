@@ -1,4 +1,4 @@
-# Mintable Interview 17.01.2022
+# Mintable Clone
 
 ## React-Redux application with Opensea API.
 
